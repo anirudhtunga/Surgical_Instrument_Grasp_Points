@@ -6,8 +6,8 @@ Detection and Segmentation of surgical instruments in diverse lighting condition
 </p>
 
 ## Grasp Point Detection
-- Download and arrange our data in the `data` folder from here: [Google drive]()
-- Download our pre-trained checkpoints from here: [Google drive]()
+- Download and arrange our data in the `data` folder from here: [Google drive](https://drive.google.com/file/d/1D2qqAMJyB1pYzX7bVf0IcPfvRrsfW_3r/view?usp=sharing)
+- Download our pre-trained checkpoints from here: [Google drive](https://drive.google.com/file/d/1es6yemqxtsVOTKZ7sWeTsDf7r1i4Ar7J/view?usp=sharing)
 - For Training, refer to the `train.ipynb` notebook.
 - For Inference, refer to the `inference.ipynb` notebook.
 
